@@ -1128,7 +1128,7 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#616161",
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_name": "extHeader33",
@@ -1747,7 +1747,8 @@
               "color": "#e10098"
             },
             ".mbr-text,.mbr-section-btn": {
-              "color": "#616161"
+              "color": "#616161",
+              "text-align": "left"
             }
           },
           "_name": "features17",
