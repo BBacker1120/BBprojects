@@ -1454,6 +1454,8 @@ section.lazy-placeholder:after {
   z-index: 0;
   -webkit-animation-duration: 57s !important;
   animation-duration: 57s;
+  padding-top: 150px;
+  padding-bottom: 150px;
   background-image: url("../../../assets/images/img-3774-edit-1856x1326.jpeg");
 }
 .cid-rPzKfuvv4P .scroll-wrapper.second {
@@ -1465,6 +1467,8 @@ section.lazy-placeholder:after {
 }
 .cid-rPzKfuvv4P .block-content {
   z-index: 2;
+  padding-top: 150px;
+  padding-bottom: 150px;
 }
 @keyframes scroll-wrapper {
   0% {
