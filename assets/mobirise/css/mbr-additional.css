@@ -3365,18 +3365,3 @@ section.lazy-placeholder:after {
     padding-bottom: 1rem;
   }
 }
-.cid-rPA3zQmWwK {
-  overflow: hidden !important;
-  background-image: url("../../../assets/images/background9.jpg");
-}
-.cid-rPA3zQmWwK .container-fluid {
-  padding: 0 3rem;
-}
-.cid-rPA3zQmWwK .animated-element {
-  color: #efefef;
-}
-@media (max-width: 767px) {
-  .cid-rPA3zQmWwK .container-fluid {
-    padding: 0 1rem;
-  }
-}
